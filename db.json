@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "user_id": "UVBKNU6H2",
+      "user_foretold_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTI0NjY4NDcsImV4cCI6MTU5NTE0NTI0NywiaXNzIjoiRm9yZXRvbGQiLCJzdWIiOiIzOThhOTRkNC0wODY4LTRlNzctODEwMy00ZTAxMjIyMDYzZmUifQ.wd28SDBZlurb2pEZOuJk65jDqMeXw2joXyyUEHhRTHo",
+      "slack_channel_id": "G01665YC388",
+      "title": "Test question",
+      "direct_message": false,
+      "question_type": "FLOAT",
+      "resolution": "2021-06-15",
+      "foretold_agent_id": "398a94d4-0868-4e77-8103-4e01222063fe"
+    },
+    {
+      "user_id": "UV6G09Z39",
+      "user_foretold_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTIzMzY5MjEsImV4cCI6MTU5NTAxNTMyMSwiaXNzIjoiRm9yZXRvbGQiLCJzdWIiOiJkNDQwOGI4YS00ZjZiLTRjMTUtYjU2NS04M2E3NjQ1ZDI3YzUifQ.5jl8UdNlmoBdXXGFnSc6Ra5wMOJYXPTXILx0oee4SYg",
+      "direct_message": false,
+      "slack_channel_id": "C0155AXPX9V",
+      "title": "test",
+      "question_type": "PERCENTAGE"
+    },
+    {
+      "user_id": "U011VUULH1S",
+      "user_foretold_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTIzMzY5MjEsImV4cCI6MTU5NTAxNTMyMSwiaXNzIjoiRm9yZXRvbGQiLCJzdWIiOiJkNDQwOGI4YS00ZjZiLTRjMTUtYjU2NS04M2E3NjQ1ZDI3YzUifQ.5jl8UdNlmoBdXXGFnSc6Ra5wMOJYXPTXILx0oee4SYg"
+    },
+    {
+      "user_id": "UV1HF4BD3",
+      "user_foretold_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTIzMzY5MjEsImV4cCI6MTU5NTAxNTMyMSwiaXNzIjoiRm9yZXRvbGQiLCJzdWIiOiJkNDQwOGI4YS00ZjZiLTRjMTUtYjU2NS04M2E3NjQ1ZDI3YzUifQ.5jl8UdNlmoBdXXGFnSc6Ra5wMOJYXPTXILx0oee4SYg"
+    },
+    {
+      "user_id": "U011C4YAC77",
+      "user_foretold_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTIzMzY5MjEsImV4cCI6MTU5NTAxNTMyMSwiaXNzIjoiRm9yZXRvbGQiLCJzdWIiOiJkNDQwOGI4YS00ZjZiLTRjMTUtYjU2NS04M2E3NjQ1ZDI3YzUifQ.5jl8UdNlmoBdXXGFnSc6Ra5wMOJYXPTXILx0oee4SYg"
+    },
+    {
+      "user_id": "U01296LN204",
+      "user_foretold_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTIzMzY5MjEsImV4cCI6MTU5NTAxNTMyMSwiaXNzIjoiRm9yZXRvbGQiLCJzdWIiOiJkNDQwOGI4YS00ZjZiLTRjMTUtYjU2NS04M2E3NjQ1ZDI3YzUifQ.5jl8UdNlmoBdXXGFnSc6Ra5wMOJYXPTXILx0oee4SYg"
+    },
+    {
+      "user_id": "U010T5E93K6",
+      "user_foretold_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTIzMzY5MjEsImV4cCI6MTU5NTAxNTMyMSwiaXNzIjoiRm9yZXRvbGQiLCJzdWIiOiJkNDQwOGI4YS00ZjZiLTRjMTUtYjU2NS04M2E3NjQ1ZDI3YzUifQ.5jl8UdNlmoBdXXGFnSc6Ra5wMOJYXPTXILx0oee4SYg"
+    }
+  ],
+  "channels": {}
+}
