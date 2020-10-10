@@ -108,3 +108,16 @@ Where:
 Update a question
   - A numerical question
   - A binary question
+  
+## Gotchas
+If hosted on a platform such as glitch, a premium version is needed; otherwise, the app goes to sleep and ignores the incoming requests. 
+
+In this example, all questions go to the [Public testing ground community](https://www.foretold.io/c/e351f8f3-cf9c-4787-a787-68257220084d). To change this, change the line `let foretold_channel_id = "e351f8f3-cf9c-4787-a787-68257220084d"` in the file server.js
+
+Forecasting on more than one community doesn't exist as a feature in this bridge. To add it, users would have to identify themselves, then a request would have to be sent to foretold to see which communities the user belongs to, and these communities would be presented on a drop-down button. But this doesn't work in foretold, because bots don't belong to the same communities as their owners. 
+
+Authentication works best when:
+- All users forecast anonymously in one public community, using a common bot token (the default foretold token in the `.env` file).
+- All users identify themselves with a bot they own in a public community. They can do this once, by sending "indentify me as bottoken" to the foretold user on slack.
+
+Authentication doesn't work so well in private communities. 

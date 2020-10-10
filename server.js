@@ -311,7 +311,7 @@ app.view("modal-identifier", async ({ ack, body, view, context }) => {
 
   // Create the question
   // To make custom community posting work, delete the next line:
-  let foretold_channel_id = "e351f8f3-cf9c-4787-a787-68257220084d"// "ec96af95-cd61-403e-99d3-1875d2f4787b" // "e351f8f3-cf9c-4787-a787-68257220084d" //
+  let foretold_channel_id = "e351f8f3-cf9c-4787-a787-68257220084d"
 
   const response = await create_question({title, description, value_type, foretold_channel_id, min_query_text, max_query_text, resolution_date}, user_id)
   const measurable_id = response.data.measurableCreate.id;
